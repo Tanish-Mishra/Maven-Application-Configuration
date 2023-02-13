@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>
-      Thank You!
+      Thank You
     </title>
   </head>
 <body>
